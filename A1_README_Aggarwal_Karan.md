@@ -45,5 +45,14 @@ https://wordpress.org/openverse/image/0ed2eec3-1722-44b3-b695-4e310e152973
 
 
 ## Website Links
+Main Page: https://delicate-twilight-e0e973.netlify.app
+### Below Pages can only navigated through Main Page only. Please refer the "Flow to Use Website", to navigate till these pages. 
+Cruise Lease Page: https://delicate-twilight-e0e973.netlify.app/lease
+Submit Page: https://delicate-twilight-e0e973.netlify.app/confirmation
+Post Update Confirmation Page: https://delicate-twilight-e0e973.netlify.app/update
+Availability Dates Modify Page: https://delicate-twilight-e0e973.netlify.app/update
 
 
+
+## Github Link: 
+https://github.com/karanagg262/assignment1
